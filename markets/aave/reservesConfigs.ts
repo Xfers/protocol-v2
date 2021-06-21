@@ -13,7 +13,7 @@ import {
 } from './rateStrategies';
 
 export const strategyBUSD: IReserveParams = {
-  strategy: rateStrategyStableOne, 
+  strategy: rateStrategyStableOne,
   baseLTVAsCollateral: '0',
   liquidationThreshold: '0',
   liquidationBonus: '0',

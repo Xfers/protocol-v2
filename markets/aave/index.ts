@@ -87,7 +87,7 @@ export const AaveConfig: IAaveConfiguration = {
     },
     [eEthereumNetwork.ropsten]: {
       AAVE: '',
-      BAT: '0x85B24b3517E3aC7bf72a14516160541A60cFF19d', 
+      BAT: '0x85B24b3517E3aC7bf72a14516160541A60cFF19d',
       BUSD: '0xFA6adcFf6A90c11f31Bc9bb59eC0a6efB38381C6',
       DAI: '0xf80A32A835F79D7787E8a8ee5721D0fEaFd78108',
       ENJ: ZERO_ADDRESS,
