@@ -84,6 +84,7 @@ export const AaveConfig: IAaveConfiguration = {
       WETH: '0xd0a1e359811322d97991e03f863a0c30c2cf029c',
       YFI: '0xb7c325266ec274fEb1354021D27FA3E3379D840d',
       ZRX: '0xD0d76886cF8D952ca26177EB7CfDf83bad08C00C',
+      XSGD: '0xaf595F2e11e2BB97C80f91Efa9AeF75b0C8D3980',
     },
     [eEthereumNetwork.ropsten]: {
       AAVE: '',
